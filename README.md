@@ -1,6 +1,6 @@
 # FizzBuzz
 
-<img src ='./screenshots/screenshot.png' width='100'>
+<img src ='./screenshots/screenshot.png' width='1000'>
 
 Program checks if a number is divisible by 3 or if it is divisible by 5 or if it is divisible by 3 and 5 at the same time. Program gives the corresponding output to first condition "Fizz", second condition "Buzz" and third condition "Fizzbuzz"
 ## Used technologies/frameworks/libraries/languages
