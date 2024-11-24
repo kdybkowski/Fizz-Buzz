@@ -1,4 +1,4 @@
-# FizzBuzz
+# Fizz-Buzz
 
 <img src ='./screenshots/screenshot.png' width='1000'>
 
